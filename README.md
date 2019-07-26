@@ -16,11 +16,11 @@ Simplest usage:
 
 python3 coverter.py
 
-define stuff to the cript
+define stuffs to the cript
 
-	python aws_cli_federation.py \
-	--username your_email@something.org \
-	--password Password or API Token
+	
+	--Destination \
+	--Source from the GitHub
 
 
 ## Developer info
