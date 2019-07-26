@@ -1,4 +1,4 @@
-# GitFile Copy directories with all the associated files into a launch destination for Confluence API POST 
+# Copy GitFile directories with all the associated files into a launch destination for Confluence API POST 
 
 
 ## Requirements 
