@@ -28,3 +28,4 @@ define stuffs to the cript
 Please contact Allen Chen <Allen.Chen@solarwinds.com> if you need help
 
 ## Changelog
+. 7/28 Deploy Pull Script for API POST
